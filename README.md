@@ -3,48 +3,48 @@ Udacity's Deep Learning Nanodegree projects repository
 
 # Course program
 
-## 1. Neural Networks
+## 1. Software Engineering Fundamentals
 
-  Learn neural networks basics, and build your first network with Python and NumPy. Use the modern deep learning framework PyTorch to build multi-layer neural networks, and analyze real data.
+  In this lesson, you’ll write production-level code and practice object-oriented programming, which you can integrate into machine learning projects.
 
-  **Project:** Predicting Bike-Sharing Patterns
+  **Project:** Build a Python Package
 
-  Build and train neural networks from scratch to predict the number of bikeshare users on a given day.
-
-
-  *project link:* [Predicting Bike-Sharing Patterns]
+  Build your own Python package, a skill that every software engineer should have. This exercise will not be required for you to complete this program and, as such, will not be graded.
 
 
-## 2. Convolutional Neural Networks
-
-  Learn how to build convolutional networks and use them to classify images (faces, melanomas, etc.) based on patterns and objects that appear in them. Use these networks to learn data compression and image denoising.
-
-**Project:** Landmark Classification & Tagging for Social Media
-
-In the project, you will go through a machine learning design process end-to-end: performing data preprocessing and augmentation, designing your own CNN from scratch, and training and saving your best CNN model. You will also use transfer learning and compare your transfer-learned model with your from-scratch CNN.
-
-*project link:* [Landmark Classification & Tagging for Social Media]
-
-## 3. Recurrent Neural Networks
-
-  Build your own recurrent networks and long short-term memory networks with PyTorch; perform sentiment analysis and use recurrent networks to generate new text from TV scripts.
-
-  **Project:** Generate TV scripts
-
-  Build a recurrent neural network on TensorFlow to process text. Use it to generate new episodes of your favorite TV show, based on old scripts.
+  *project link:* [Build a Python Package]
 
 
-*project link:* [Predicting Bike-Sharing Patterns]
+## 2. Machine Learning in Production
+
+  Learn how to deploy machine learning models to a production environment using Amazon SageMaker.
+
+  **Project:** Deploy a Sentiment Analysis Model
+
+  Build and deploy a deep learning model that predicts the sentiment of a user-provided movie review using Amazon SageMaker. In addition, create a simple web app that uses your deployed model and accepts user input.
+
+  *project link:* [Deploy a Sentiment Analysis Model]
+
+## 3. Machine Learning Case Studies
+
+  Apply machine learning techniques to solve real-world tasks; explore data and deploy both built-in and custom-made Amazon SageMaker models.
+
+  **Project:** Plagiarism Detector
+
+  Use your advanced machine learning skills to define similarity metrics between two text documents and identify cases of plagiarism. You’ll perform feature engineering and train and deploy a custom, plagiarism-classification model using Amazon SageMaker.
 
 
-## 4. Deploying a Sentiment Analysis Model
-
-  Train and deploy your own PyTorch sentiment analysis model. Deployment gives you the ability to use a trained model to analyze new, user input. Build a model, deploy it, and create a gateway for accessing it from a website.
-
-  **Project:** Deploying a Sentiment Analysis Model
-
-  Train and deploy your own PyTorch sentiment analysis model. You’ll build a model and create a gateway for accessing it from a website.
+*project link:* [Plagiarism Detector]
 
 
-*project link:* [Predicting Bike-Sharing Patterns]
+## 4. Machine Learning Capstone
+
+  In this capstone lesson, you’ll select a machine learning challenge and propose a possible solution.
+
+  **Project:** Capstone Proposal and Project
+
+  Define a problem you want to solve. Then, explore the relevant data, perform feature extraction and modeling steps, and develop a set of final insights. You will present the analysis and your insights in a blog post and GitHub repository. This project will serve as a demonstration of end-to-end machine learning skills that will be an important piece of your job-ready portfolio.
+
+
+*project link:* [Capstone Proposal and Project]
 
