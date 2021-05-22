@@ -1,4 +1,4 @@
-# Udacity-Deep-Learning-Projects
+# Udacity Machine Learning Nanodegree Projects
 Udacity's Deep Learning Nanodegree projects repository
 
 # Course program
@@ -23,7 +23,7 @@ Udacity's Deep Learning Nanodegree projects repository
 
   Build and deploy a deep learning model that predicts the sentiment of a user-provided movie review using Amazon SageMaker. In addition, create a simple web app that uses your deployed model and accepts user input.
 
-  *project link:* [Deploy a Sentiment Analysis Model]
+  *project link:* [Deploy a Sentiment Analysis Model]:(https://github.com/Fer-Bonilla/Udacity-Machine-Learning-deploy-sentiment-analysis-model)
 
 ## 3. Machine Learning Case Studies
 
